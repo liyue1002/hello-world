@@ -14,6 +14,10 @@ String f =" this will be merged";
 
 String c = a+b;
 String g = e+f;
+//adding the new string to pull the code
+int h=10;
+int i =100;
+int j = h+1;
 }
 }
 
